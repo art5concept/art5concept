@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @art5concept
 - 👀 I’m interested in code
-- 🌱 I’m currently learning to code
+- 🌱 I’m currently learning to code and mechanical vibrations
 - 💞️ I’m looking to collaborate on a new project of my life
 - 📫 How to reach me ...
 
